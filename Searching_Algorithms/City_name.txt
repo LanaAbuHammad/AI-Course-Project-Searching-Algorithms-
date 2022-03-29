@@ -1,0 +1,20 @@
+Akka
+Haifa
+Tibries
+Caesarea
+Nazareth
+Jericho
+Yaffa
+Umm al fahem
+Tulkarem
+Jenin
+Qalqilya
+Nablus
+Salfit
+Ramallah
+Ramla
+Lod
+Jerusalem
+Hebron
+Bethlehem
+Gaza
